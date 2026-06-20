@@ -1,0 +1,1 @@
+{"edge_clearance": 1.5, "anchor": "BZ1", "chamfer": 0.5, "mask_layer_id": 21, "random_seed": null, "randomness": 0.25, "use_keepouts": true, "use_outline": true, "use_tracks": false, "track_clearance": 0.2, "save_visualization": true, "visualization_path": "", "kimesh_settings_version": "2.1.0"}
