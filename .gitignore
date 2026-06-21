@@ -1,23 +1,19 @@
-# --- Pliki automatycznych kopii zapasowych (KiCad) ---
 *.bak
 *-bak
 *.kicad_sch-bak
 
-# --- Pliki tymczasowe i blokady edycji (Lock files) ---
 *.lck
 ~*
 
-# --- Lokalne ustawienia projektu (widok, otwarte okna) ---
 *.kicad_prl
 fp-info-cache
 last_kimesh_settings.json
 
-# --- Logi i raporty (generowane automatycznie) ---
 *missing3Dmodels.txt
 kicadpartsplacer-report.csv
 
-# --- Foldery testowe i produkcyjne ---
 test\ board/
 gerber_to_order/
 NNCpro-backups/
 .easyeda_cache/
+.metadata/
