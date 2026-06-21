@@ -1,0 +1,2 @@
+../Middlewares/ST/usbx/common/usbx_device_classes/src/ux_device_class_dfu_initialize.c:92:7:_ux_device_class_dfu_initialize	8
+../Middlewares/ST/usbx/common/usbx_device_classes/src/ux_device_class_dfu_initialize.c:297:7:_uxe_device_class_dfu_initialize	4

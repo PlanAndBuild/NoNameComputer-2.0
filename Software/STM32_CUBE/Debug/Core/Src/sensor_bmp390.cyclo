@@ -1,0 +1,7 @@
+../Core/Src/sensor_bmp390.c:27:26:BMP390_SPI_Read	3
+../Core/Src/sensor_bmp390.c:49:26:BMP390_SPI_Write	1
+../Core/Src/sensor_bmp390.c:54:13:BMP390_ReadCalibration	1
+../Core/Src/sensor_bmp390.c:77:19:BMP390_Init	2
+../Core/Src/sensor_bmp390.c:112:14:BMP390_Compensate_Temp	1
+../Core/Src/sensor_bmp390.c:122:14:BMP390_Compensate_Press	1
+../Core/Src/sensor_bmp390.c:150:19:BMP390_Read	4

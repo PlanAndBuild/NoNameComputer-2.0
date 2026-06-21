@@ -1,0 +1,3 @@
+../Core/Src/sensor_h3lis200.c:19:26:H3LIS200_SPI_ReadBuffer	2
+../Core/Src/sensor_h3lis200.c:36:19:H3LIS200_Init	3
+../Core/Src/sensor_h3lis200.c:64:19:H3LIS200_Read	2

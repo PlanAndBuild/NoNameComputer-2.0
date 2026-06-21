@@ -1,0 +1,2 @@
+../Core/Src/sensor_lsm6dsv.c:18:19:LSM6DSV_Init	3
+../Core/Src/sensor_lsm6dsv.c:54:19:LSM6DSV_Read	2

@@ -1,0 +1,4 @@
+../Core/Src/sensor_ina3221.c:25:26:INA3221_WriteRegister	32	static
+../Core/Src/sensor_ina3221.c:34:26:INA3221_ReadRegister	32	static
+../Core/Src/sensor_ina3221.c:49:19:INA3221_Init	16	static
+../Core/Src/sensor_ina3221.c:76:19:INA3221_Read	48	static
