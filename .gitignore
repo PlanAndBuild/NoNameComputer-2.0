@@ -1,0 +1,21 @@
+(dodaj ukośnik wsteczny `\` przed spacją) albo zamień spację na cudzysłów: `"test board/"`. Najlepszą praktyką na przyszłość jest jednak unikanie spacji w nazwach folderów projektowych (np. stosowanie `test_board/` lub `test-board/`).
+
+---
+
+### Literówka (warto poprawić)
+W linijce `*.kickad_sch-bak` masz prawdopodobnie literówkę w nazwie programu – powinno być jedno "c": `*.kicad_sch-bak`.
+
+### Jak by to mogło wyglądać po drobnych poprawkach:
+
+```text
+*.lck
+*.bak
+*.kicad_prl
+*.kicad_sch-bak  # poprawione na jedno 'c'
+
+NNCpro-backups/
+gerber_to_order/
+test\ board/     # dodany ukośnik przed spacją
+.easyeda_cache/
+.metadata/
+.settings/
