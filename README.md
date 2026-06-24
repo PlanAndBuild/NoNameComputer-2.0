@@ -66,7 +66,17 @@
     </td>
   </tr>
 </table>
+ ### schematics:
 
+ <div align="center">
+  <img src="Images/schematic/main.png" alt="-" width="80%">
+  <img src="Images/schematic/sensors.png" alt="-" width="80%">
+  <img src="Images/schematic/PSU.png" alt="-" width="80%">
+  <img src="Images/schematic/Igniters.png" alt="-" width="80%">
+  <img src="Images/schematic/Interfaces.png" alt="-" width="80%">
+  <img src="Images/schematic/Others.png" alt="-" width="80%">
+</div>
+ 
 ## ⚖️ License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License.
