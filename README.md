@@ -145,14 +145,14 @@ You are free to share and adapt this material under the following terms:
 | 56 | 1 | USB_C_Receptacle_USB2.0_16P | F32258MUBCE2O | [C5917305](https://www.lcsc.com/product-detail/C5917305.html) | $0.3052 | $0.3052 |
 |   | **--- MISCELLANEOUS ---** |   |   |   |   |   |
 | 57 | 6 | 500mA | CF06V5TR50 | [C163116](https://www.lcsc.com/product-detail/C163116.html) | $0.0386 | $0.2316 |
-| 58 | 3 | 600ohm | CBG160808U601T | [C73326](https://www.lcsc.com/product-detail/C73326.html) | $0.5700 | $1.7100 |
+| 58 | 3 | 600ohm | CBG160808U601T | [C73326](https://www.lcsc.com/product-detail/C73326.html) | $0.0113 | $0.0678 |
 | 59 | 1 | Buzzer | YX-SMD8530P | [C781886](https://www.lcsc.com/product-detail/C781886.html) | $0.3755 | $0.3755 |
 | 60 | 1 | Crystal_GND24 | F32258MUBCE2O | [C5917305](https://www.lcsc.com/product-detail/C5917305.html) | $0.3052 | $0.3052 |
 |   | **--- ADDITIONAL ELEMENTS ---** |   |   |   |   |   |
 | 61 | 4 | Screws | Any M3 screw |  |  |  |
 | 62 | 1 | PCB Board | 4layer PCB | [JLCPCB](https://jlcpcb.com/) | $7.0000 | $7.0000 |
 |   |   |   |   |   |   |   |
-| **SUMMARY** | | | | | | **Total: $91.73** |
+| **SUMMARY** | | | | | | **Total: $90.28** |
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
