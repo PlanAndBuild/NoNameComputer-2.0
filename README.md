@@ -66,7 +66,8 @@
     </td>
   </tr>
 </table>
- ### schematics:
+
+### schematics:
 
  <div align="center">
   <img src="Images/schematic/main.png" alt="-" width="80%">
