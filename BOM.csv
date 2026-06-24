@@ -1,4 +1,4 @@
-Item No.,Qty,Value,Manufacturer Part Number (MPN),Supplier Part Number,Unit Price,Total Price
+,Item No.,Qty,Value,Manufacturer Part Number (MPN),Supplier Part Number,Unit Price,Total Price
 ,--- CAPACITORS ---,,,,
 1,1,10nF,0603X7R103K250NT,[C49326603](https://www.lcsc.com/product-detail/C49326603.html),$0.0034,$0.0034
 2,33,100nF,FCC0603B104K500CT,[C5137636](https://www.lcsc.com/product-detail/C5137636.html),$0.0147,$0.4851
