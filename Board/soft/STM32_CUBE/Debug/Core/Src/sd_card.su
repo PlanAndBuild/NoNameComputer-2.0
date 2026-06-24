@@ -1,0 +1,6 @@
+../Core/Src/sd_card.c:15:16:SD_SendCommand	32	static
+../Core/Src/sd_card.c:46:19:SD_Init	24	static
+../Core/Src/sd_card.c:109:19:SD_ReadBlock	24	static
+../Core/Src/sd_card.c:144:19:SD_WriteBlock	32	static
+../Core/Src/sd_card.c:199:19:FAT32_FormatAndCreateFile	584	static
+../Core/Src/sd_card.c:374:19:FAT32_WriteFileSectors	40	static

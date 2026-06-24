@@ -1,0 +1,11 @@
+../Core/Src/pca9685.c:18:26:PCA9685_WriteReg	32	static
+../Core/Src/pca9685.c:24:26:PCA9685_ReadReg	32	static
+../Core/Src/pca9685.c:29:19:PCA9685_SetPWM	32	static
+../Core/Src/pca9685.c:40:26:PCA9685_SetPrescaler	24	static
+../Core/Src/pca9685.c:62:19:PCA9685_Init	16	static
+../Core/Src/pca9685.c:85:19:PCA9685_SetServo	24	static
+../Core/Src/pca9685.c:101:19:PCA9685_BuzzerSetFrequency	24	static
+../Core/Src/pca9685.c:111:19:PCA9685_BuzzerOn	8	static
+../Core/Src/pca9685.c:117:19:PCA9685_BuzzerOff	8	static
+../Core/Src/pca9685.c:123:19:PCA9685_ARGB_High	8	static
+../Core/Src/pca9685.c:130:19:PCA9685_ARGB_Low	8	static

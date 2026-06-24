@@ -1,0 +1,8 @@
+../Core/Src/lora_llcc68.c:25:13:LoRa_WaitBusy	3
+../Core/Src/lora_llcc68.c:34:26:LoRa_SendCommand	3
+../Core/Src/lora_llcc68.c:53:26:LoRa_ReadData	3
+../Core/Src/lora_llcc68.c:78:19:LoRa_Init	3
+../Core/Src/lora_llcc68.c:123:19:LoRa_Configure	4
+../Core/Src/lora_llcc68.c:185:19:LoRa_Transmit	1
+../Core/Src/lora_llcc68.c:235:19:LoRa_ReceiveStart	1
+../Core/Src/lora_llcc68.c:255:19:LoRa_ReceivePoll	5

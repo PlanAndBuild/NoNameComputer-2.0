@@ -1,0 +1,9 @@
+../Core/Src/flash_w25q.c:15:13:W25Q_BuildCommand	1
+../Core/Src/flash_w25q.c:35:26:W25Q_WriteEnable	1
+../Core/Src/flash_w25q.c:42:16:W25Q_ReadStatusReg1	2
+../Core/Src/flash_w25q.c:55:13:W25Q_WaitBusy	2
+../Core/Src/flash_w25q.c:63:19:W25Q_Init	4
+../Core/Src/flash_w25q.c:89:19:W25Q_EraseSector	3
+../Core/Src/flash_w25q.c:105:19:W25Q_WritePage	5
+../Core/Src/flash_w25q.c:128:19:W25Q_Read	2
+../Core/Src/flash_w25q.c:141:19:W25Q_EraseChip	3

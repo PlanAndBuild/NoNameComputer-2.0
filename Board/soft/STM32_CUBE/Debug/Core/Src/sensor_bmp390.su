@@ -1,0 +1,7 @@
+../Core/Src/sensor_bmp390.c:27:26:BMP390_SPI_Read	24	static
+../Core/Src/sensor_bmp390.c:49:26:BMP390_SPI_Write	16	static
+../Core/Src/sensor_bmp390.c:54:13:BMP390_ReadCalibration	40	static
+../Core/Src/sensor_bmp390.c:77:19:BMP390_Init	24	static
+../Core/Src/sensor_bmp390.c:112:14:BMP390_Compensate_Temp	32	static
+../Core/Src/sensor_bmp390.c:122:14:BMP390_Compensate_Press	48	static
+../Core/Src/sensor_bmp390.c:150:19:BMP390_Read	40	static

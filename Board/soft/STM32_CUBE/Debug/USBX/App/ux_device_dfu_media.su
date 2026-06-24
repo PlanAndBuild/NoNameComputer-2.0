@@ -1,0 +1,7 @@
+../USBX/App/ux_device_dfu_media.c:70:6:USBD_DFU_Activate	16	static
+../USBX/App/ux_device_dfu_media.c:85:6:USBD_DFU_Deactivate	16	static
+../USBX/App/ux_device_dfu_media.c:101:6:USBD_DFU_GetStatus	24	static
+../USBX/App/ux_device_dfu_media.c:123:6:USBD_DFU_Read	32	static
+../USBX/App/ux_device_dfu_media.c:149:6:USBD_DFU_Write	32	static
+../USBX/App/ux_device_dfu_media.c:173:6:USBD_DFU_Notify	24	static
+../USBX/App/ux_device_dfu_media.c:194:6:USBD_DFU_CustomRequest	24	static

@@ -1,0 +1,9 @@
+../Core/Src/spi_common.c:5:6:SPI_Common_Init	8	static
+../Core/Src/spi_common.c:27:19:SPI_Transmit	24	static
+../Core/Src/spi_common.c:32:19:SPI_Receive	24	static
+../Core/Src/spi_common.c:37:19:SPI_TransmitReceive	32	static
+../Core/Src/spi_common.c:42:6:SPI_CS_Select	16	static
+../Core/Src/spi_common.c:47:6:SPI_CS_Deselect	16	static
+../Core/Src/spi_common.c:52:19:SPI_WriteRegister	24	static
+../Core/Src/spi_common.c:68:19:SPI_ReadRegister	32	static
+../Core/Src/spi_common.c:85:19:SPI_ReadBuffer	32	static

@@ -1,0 +1,2 @@
+../Core/Src/sensor_mmc5983.c:23:19:MMC5983_Init	3
+../Core/Src/sensor_mmc5983.c:55:19:MMC5983_Read	6

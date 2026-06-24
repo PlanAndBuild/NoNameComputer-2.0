@@ -1,0 +1,8 @@
+../Core/Src/flight_computer.c:53:13:Kalman_Predict	1
+../Core/Src/flight_computer.c:71:13:Kalman_Update	1
+../Core/Src/flight_computer.c:96:16:CheckPyroContinuity	7
+../Core/Src/flight_computer.c:114:13:FirePyro	7
+../Core/Src/flight_computer.c:154:13:DumpLogsToSDCard	6
+../Core/Src/flight_computer.c:215:6:FlightComputer_Init	1
+../Core/Src/flight_computer.c:266:6:FlightComputer_ProcessCommand	6
+../Core/Src/flight_computer.c:306:6:FlightComputer_Loop	32

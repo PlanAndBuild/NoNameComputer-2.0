@@ -1,0 +1,4 @@
+../USBX/App/app_usbx_device.c:68:6:MX_USBX_Device_Init	2
+../USBX/App/app_usbx_device.c:99:6:MX_USBX_Device_Stack_Init	4
+../USBX/App/app_usbx_device.c:223:6:MX_USBX_Device_Stack_DeInit	5
+../USBX/App/app_usbx_device.c:272:13:USBD_ChangeFunction	5
