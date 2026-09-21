@@ -161,7 +161,7 @@ You are free to share and adapt this material under the following terms:
 | 60 | 1 | Crystal_GND24 | F32258MUBCE2O | [C5917305](https://www.lcsc.com/product-detail/C5917305.html) | $0.3052 | $0.3052 |
 |   | **--- ADDITIONAL ELEMENTS ---** |   |   |   |   |   |
 | 61 | 4 | Screws | Any M3 screw |  |  |  |
-| 62 | 1 | PCB Board | 4layer PCB | [JLCPCB](https://jlcpcb.com/) | $7.0000 | $7.0000 |
+| 62 | 1 | PCB Board | 4layer PCB | - | $7.0000 | $7.0000 |
 |   |   |   |   |   |   |   |
 | **SUMMARY** | | | | | | **Total: $90.28** |
 
