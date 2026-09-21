@@ -19,7 +19,7 @@
   <br>
   <b>It is designed to collect data from all of the sensor, sending it IRL back down to the earth via radio link, deploy parachutes, steer rocket in flight using aerodynamic control or TVC and at the end send live location. </b>
   </br>
-  <em>I have designed it for my rockets because there is no comercial computers or if there is something it's very expensive. I actually like designig electronics and thats why I'm even here.</em>
+  <em>We have designed it for our rockets because there is no comercial computers or if there is something it's very expensive. We actually like designig electronics and thats why we're even here.</em>
 </p>
 
 ## Features
@@ -111,7 +111,7 @@ You are free to share and adapt this material under the following terms:
 | 15 | 2 | 5.1kΩ | RTT035101FTP | [C103686](https://www.lcsc.com/product-detail/C103686.html) | $0.0012 | $0.0024 |
 | 16 | 30 | 10kΩ | FRC0603F1002TS | [C2906982](https://www.lcsc.com/product-detail/C2906982.html) | $0.0023 | $0.0690 |
 | 17 | 2 | 15kΩ | SCR0603J15K | [C3017711](https://www.lcsc.com/product-detail/C3017711.html) | $0.0009 | $0.0018 |
-| 18 | 1 | 30kΩ | CL0603JN30KP | [C49254202](https://www.lcsc.com/product-detail/C49254202.html) | $0.0011 | $0.0011 |
+| 18 | 1 | 30kΩ | CL0603JN30KP | [C49254202](https://www.lcsc.com/product-detail/C49254202.html) | $0.0011 | $0.0110 |
 | 19 | 1 | 42.2kΩ | RS-03K4222FT | [C321903](https://www.lcsc.com/product-detail/C321903.html) | $0.0006 | $0.0006 |
 | 20 | 10 | 100kΩ | CL0603JN100KP | [C46635231](https://www.lcsc.com/product-detail/C46635231.html) | $0.0011 | $0.0110 |
 | 21 | 1 | 110kΩ | CL0603FN110KP | [C48996812](https://www.lcsc.com/product-detail/C48996812.html) | $0.0012 | $0.0012 |
@@ -161,7 +161,7 @@ You are free to share and adapt this material under the following terms:
 | 60 | 1 | Crystal_GND24 | F32258MUBCE2O | [C5917305](https://www.lcsc.com/product-detail/C5917305.html) | $0.3052 | $0.3052 |
 |   | **--- ADDITIONAL ELEMENTS ---** |   |   |   |   |   |
 | 61 | 4 | Screws | Any M3 screw |  |  |  |
-| 62 | 1 | PCB Board | 4layer PCB | - | $7.0000 | $7.0000 |
+| 62 | 1 | PCB Board | 4layer PCB | [JLCPCB](https://jlcpcb.com/) | $7.0000 | $7.0000 |
 |   |   |   |   |   |   |   |
 | **SUMMARY** | | | | | | **Total: $90.28** |
 
